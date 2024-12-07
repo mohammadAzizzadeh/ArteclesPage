@@ -1,0 +1,29 @@
+.ArticlePageWraap{
+    text-align: center;
+}
+.ArticlePageWraap h1{
+    text-align: right;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+.ArticlePageWraap img {
+    width: 50%;
+    margin-bottom: 10px;
+
+}
+.ArticlePageWraap p{
+    text-align: right;
+    color: #777;
+
+}
+.articleinfo{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 10px;
+    flex-direction: row-reverse;
+}
+.articleinfo span{
+    margin-left: 10px;
+    color: #777;
+}

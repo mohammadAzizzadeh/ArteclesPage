@@ -1,0 +1,14 @@
+.TextAreaWrapper{
+
+}
+.TextAreaWrapper label{ 
+    display: block;
+    margin-bottom: 5px;
+    text-align: right;
+}
+.TextAreaWrapper textarea{
+    width: 100%;
+    min-height: 200px;
+    border: 1px solid #ccc
+
+}

@@ -1,0 +1,15 @@
+.inputWwraper{
+    margin-bottom: 20px;
+}
+.inputWwraper label {
+    display: block;
+    margin-bottom: 5px;
+    text-align: right;
+}
+.inputWwraper input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: right;
+    
+}
